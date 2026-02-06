@@ -1,0 +1,28 @@
+.currency-selector {
+    margin: 20px 0;
+}
+
+.currency-selector select {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.analytics-dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.analytics-dashboard h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.analytics-dashboard .data-point {
+    font-size: 18px;
+    margin: 5px 0;
+}
